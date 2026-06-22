@@ -1,3 +1,5 @@
+# WE ARE ONE 🫀
+
 # barakqing-node — STATE
 
 name: barakqing-node
